@@ -1,4 +1,4 @@
 # test-repo
 
-Repository
+Repository octocat image:
 ![](https://octodex.github.com/images/repo.png)
